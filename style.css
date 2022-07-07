@@ -1,0 +1,182 @@
+*{
+    margin: 0;
+}
+.bannar{
+    background-image: url("./donate-today/images/donation0.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    padding: 20px 50px;
+    height: 600px;
+    
+}
+
+.bannar-header{
+    color: lightgrey;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+ h1{
+    font-size:50px;
+    font-family: 'Oswald', sans-serif;
+    padding: 20px 0;
+
+}
+
+ p{
+    color: aqua;
+    padding: 30px 0;
+    font-size: 24px;
+}
+button{
+    font-size:2rem ;
+    font-weight: 700;
+    margin: 20px 0;
+    padding: 15px;
+    background-color: tomato;
+    border-radius: 10px;
+    border: 1px solid tomato;
+    color: white;
+  }
+
+.collection{
+    background-color: white;
+    text-align: center;
+    
+    height: 600px;
+    width: 50%;
+    margin: 0 auto;
+}
+.amount{
+    display: inline;
+    width: 20%;
+    margin: 25px;
+    padding: 20px ;
+    background-color: lightgray;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    font-size: 25px;
+    font-weight: bold;
+}
+hr{
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 00.5em;
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+
+}
+#other{
+    margin-top:80px;
+    opacity: 0.5;
+}
+.packet{
+    margin-top: 20px;
+}
+#unique{
+    border: 1px solid tomato;
+    background-color: blanchedalmond;
+    color: tomato;
+}
+.card img{
+     height: 150px;
+     width: 110px;
+}
+.card p{
+    font-size: 18px;
+    color: lightgray;
+}
+.card h6{
+    font-size: 1.5rem;
+}
+.card{
+   padding: 25px 10px;
+   margin: 20px;
+   border-radius: 10px;
+  
+}
+.plan{
+    margin: 25px;
+
+}
+.plan-header{
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+.plan-body{
+    display: flex;
+   
+}
+#style1{
+    background-color: blanchedalmond;
+}
+#style2{
+    background-color: lightgreen;
+}
+#style3{
+    background-color: lightpink;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    padding: 20px 0;
+
+}
+footer h3{
+    color: red;
+    font-family: 'Lobster', cursive;
+
+}
+footer p{
+    font-size: 12px;
+    color: grey;
+}
+.activities{
+    display: flex;
+    width: 100%;
+    margin-top: 30px;
+}
+    
+
+.activities-detail{
+    width: 50%;
+    text-align: left;
+   margin: 0 45px;
+   padding: 65px;
+}
+.activities-img{
+    width: 50%;
+    margin: 45px;
+}
+#box-sizing{
+    box-sizing: border-box;
+    padding: 0 50px;
+}
+#update{
+    width: 50%;
+  margin: 0 auto;
+}
+.update-header{
+    text-align: center;
+}
+.update-email{
+    text-align: center;
+    width: 500px;
+    height: 100px;
+    background-color: darkkhaki;
+    margin: 0 auto;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    padding: 40px;
+}
+
+   input{
+    height: 25px;
+    width: 250px;
+   
+   }
+
